@@ -368,16 +368,6 @@ if( ! function_exists('page_display')) {
                         send_email($email,$result);
                     }
 
-                    /*
-                     *
-                     *
-                     * poner la condicion de que se envie el mensaje al final del mes o al final de la semana
-                     * El envio autmatico enviaran los post de $interest_post es decir los de misma categoria que las categorias
-                     * de los productos comprados
-                     *
-                     *
-                     */
-
                     echo "</div>";
                     echo '</div>';
 
