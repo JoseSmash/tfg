@@ -207,10 +207,7 @@ function send_email($email_to, $message_post){
     </body>
     </html>
     ";
-    //$headers="Hola, gracias por las compras!!";
-    //$attachments=$message_post;
-    //$attachments="aqui estarian los enlaces de las entradas de interes";
-
+    
     mail( $to, $subject, $message, $cabeceras);
     echo '<br>'.'Mensaje enviado a '. $to .'!';
 }
