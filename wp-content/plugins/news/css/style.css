@@ -1,6 +1,83 @@
-.juan li{
-    background-color: #999999;
-    color: #eeeeee;
-    font-size:8pt;
+.products_order li{
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    color: #000000;
+    font-size: 12px;
+    font-weight: 300;
+    text-align: left;
+    background: #ffffff;
+    margin: 0 0 -1px;
+    overflow: hidden;
+    padding: 10px;
+    border: 2px solid #5878ca;
+}
+.products_order{
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    color: #000000;
+    font-size: 15px;
+    font-weight: 300;
+    text-align: left;
+    background: #ffffff;
+    margin: 0 0 10px;
+    overflow: hidden;
+    padding: 10px;
+    border: 2px solid #5878ca;
+}
+.interest li{
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    color: #000000;
+    font-size: 12px;
+    font-weight: 300;
+    text-align: left;
+    background: #ffffff;
+    margin: 0 0 5px;
+    overflow: hidden;
+    padding: 10px;
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border: 2px solid #5878ca;
+}
+.interest{
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    color: #000000;
+    font-size: 15px;
+    font-weight: 300;
+    text-align: left;
+    background: #ffffff;
+    margin: 0 0 10px;
+    overflow: hidden;
+    padding: 10px;
+    border: 2px solid #5878ca;
+}
+.order{
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    background: #889ccf;
+    margin: 0 0 25px;
+    overflow: hidden;
+    padding: 20px;
+    border-radius: 35px 0px 35px 0px;
+    -moz-border-radius: 35px 0px 35px 0px;
+    -webkit-border-radius: 35px 0px 35px 0px;
+    border: 2px solid #5878ca;
+}
+
+.global{
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    color: #000000;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: left;
+    background: #e2e2e5;
+    margin: 10px 15px 25px 0px;
+    overflow: hidden;
+    padding: 20px;
+    border-radius: 35px 35px 35px 35px;
+    -moz-border-radius: 35px 35px 35px 35px;
+    -webkit-border-radius: 35px 35px 35px 35px;
+    border: 2px solid #bdbdbd;
 }
 

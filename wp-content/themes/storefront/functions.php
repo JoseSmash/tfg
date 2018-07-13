@@ -63,6 +63,35 @@ if ( version_compare( get_bloginfo( 'version' ), '4.7.3', '>=' ) && ( is_admin()
 	}
 }
 
+/*add_action('phpmailer_init','send_smtp_email');
+
+function send_smtp_email( $phpmailer )
+{
+    // Define que estamos enviando por SMTP
+    $phpmailer->isSMTP();
+
+    // La dirección del HOST del servidor de correo SMTP p.e. smtp.midominio.com
+    $phpmailer->Host = "smpt.gmail.com";
+
+    // Uso autenticación por SMTP (true|false)
+    $phpmailer->SMTPAuth = true;
+
+    // Puerto SMTP - Suele ser el 25, 465 o 587
+    $phpmailer->Port = "587";
+
+    // Usuario de la cuenta de correo
+    $phpmailer->Username = "jjosesl1993@gmail.com";
+
+    // Contraseña para la autenticación SMTP
+    $phpmailer->Password = "contraseña";
+
+    // El tipo de encriptación que usamos al conectar - ssl (deprecated) o tls
+    $phpmailer->SMTPSecure = "tls";
+
+    $phpmailer->From = "jjosesl1993@gmail.com";
+    $phpmailer->FromName = "Jose Sánchez";
+}*/
+
 /**
  * Note: Do not add any custom code here. Please use a custom plugin so that your customizations aren't lost during updates.
  * https://github.com/woocommerce/theme-customisations

@@ -1,7 +1,12 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Jose
- * Date: 23/04/2018
- * Time: 13:08
- */
+
+if(!defined('WP_UNINSTALL_PLUGIN')){
+    exit();
+}
+
+$option_name = 'mp_opcion';
+delete_option( $option_name );
+
+global $wpdb;
+
+$wpdb->query( "DROP TABLE IF EXISTS{$wpdb->prefix}copia");

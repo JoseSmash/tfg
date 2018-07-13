@@ -3,6 +3,81 @@
   <component name="ChangeListManager">
     <list default="true" id="6c88c4da-70cc-47d7-9b15-8489fd06c156" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/wp-config.php" afterPath="$PROJECT_DIR$/wp-config.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/news/add.php" afterPath="$PROJECT_DIR$/wp-content/plugins/news/add.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/news/css/style.css" afterPath="$PROJECT_DIR$/wp-content/plugins/news/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/news/functions.php" afterPath="$PROJECT_DIR$/wp-content/plugins/news/functions.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/news/remove.php" afterPath="$PROJECT_DIR$/wp-content/plugins/news/remove.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/news/uninstall.php" afterPath="$PROJECT_DIR$/wp-content/plugins/news/uninstall.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/storefront/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/storefront/functions.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/accessories-150x150.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/accessories-300x300.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/accessories-324x324.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/accessories-768x768.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/accessories.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/beanie-150x150.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/beanie-300x300.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/beanie-768x768.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/beanie.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/belt-150x150.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/belt-300x300.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/belt-768x768.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/belt.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/cap-150x150.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/cap-300x300.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/cap-768x768.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/cap.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/hero-1024x635.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/hero-150x150.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/hero-300x186.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/hero-768x477.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/hero.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/hoodie-150x150.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/hoodie-300x300.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/hoodie-768x768.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/hoodie-with-logo-150x150.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/hoodie-with-logo-300x300.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/hoodie-with-logo-768x768.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/hoodie-with-logo.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/hoodie-with-pocket-150x150.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/hoodie-with-pocket-300x300.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/hoodie-with-pocket-768x768.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/hoodie-with-pocket.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/hoodie-with-zipper-150x150.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/hoodie-with-zipper-300x300.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/hoodie-with-zipper-768x768.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/hoodie-with-zipper.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/hoodie.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/hoodies-150x150.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/hoodies-300x300.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/hoodies-768x768.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/hoodies.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/long-sleeve-tee-150x150.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/long-sleeve-tee-300x300.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/long-sleeve-tee-768x768.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/long-sleeve-tee.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/polo-150x150.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/polo-300x300.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/polo-768x767.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/polo.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/sunglasses-150x150.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/sunglasses-300x300.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/sunglasses-768x768.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/sunglasses.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/tshirt-150x150.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/tshirt-300x300.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/tshirt-768x768.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/tshirt.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/tshirts-150x150.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/tshirts-300x300.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/tshirts-324x324.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/tshirts-768x768.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/tshirts.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/vneck-tee-150x150.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/vneck-tee-300x300.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/vneck-tee-768x767.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/vneck-tee.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/wc-logs/fatal-errors-e9e4adeebae5c97d0a9b1b091e278eef.log" afterPath="$PROJECT_DIR$/wp-content/uploads/wc-logs/fatal-errors-e9e4adeebae5c97d0a9b1b091e278eef.log" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,8 +86,244 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="uninstall.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/uninstall.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding>
+                <marker date="1524483983166" expanded="true" signature="149:169" ph="DROP TABLE I... " />
+                <marker date="1524483983166" expanded="true" signature="149:184" ph="DROP TABLE I... " />
+                <marker date="1524483983166" expanded="true" signature="149:189" ph="DROP TABLE I... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="44" column="21" lean-forward="false" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+              <folding>
+                <marker date="1531476964462" expanded="true" signature="1159:1229" ph="SELECT id_bu... wp_status_button" />
+                <marker date="1531476964462" expanded="true" signature="1293:1313" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="3105:12048" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="3116:3178" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="3116:3338" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="3358:3380" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="3382:12036" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="3458:12024" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="3471:12011" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="3497:3520" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="3522:11997" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="3635:3688" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="3690:11979" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="3715:4081" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="3790:3897" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="3899:3900" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="3899:3916" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="3899:3917" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="3899:4045" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="3899:4055" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="4024:4039" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="4106:10212" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="4164:4193" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="4195:10186" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="4295:10156" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="4332:4628" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="4382:4446" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="4448:4590" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="4665:5532" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="4715:4822" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="4824:5494" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="4824:5495" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="5569:5898" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="5636:5743" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="5745:5860" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="5935:10119" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="5976:10081" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="6088:9955" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="6137:8183" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="6137:9954" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="6219:8133" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="6343:8079" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="6404:6471" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="6404:6816" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="6489:6553" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="6550:6553" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="6555:6754" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="6877:8018" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="6951:7055" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="7057:7058" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="7057:7956" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="8393:9954" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="8455:8484" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="8499:8612" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="8553:8559" ph=" " />
+                <marker date="1531476964462" expanded="true" signature="8694:9904" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="8818:9850" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="8923:9789" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="9027:9067" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="9201:9577" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="9201:9727" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="9651:9658" ph="»" />
+                <marker date="1531476964462" expanded="true" signature="9955:10039" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="10237:11954" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="10295:10324" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="10326:11928" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="10426:11898" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="10463:11861" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="10513:10577" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="10593:10863" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="10635:10640" ph="®" />
+                <marker date="1531476964462" expanded="true" signature="10732:10747" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="10934:11823" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="11031:11781" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="11080:11732" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="11142:11209" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="11211:11682" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="11355:11370" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="11372:11628" ph="..." />
+                <marker date="1531476964462" expanded="true" signature="11539:11554" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="news.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/news.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5678">
+              <caret line="344" column="76" lean-forward="false" selection-start-line="344" selection-start-column="76" selection-end-line="344" selection-end-column="76" />
+              <folding>
+                <marker date="1531420082325" expanded="true" signature="719:740" ph="DROP TABLE I... " />
+                <marker date="1531420082325" expanded="true" signature="815:836" ph="DROP TABLE I... " />
+                <marker date="1531420082325" expanded="true" signature="912:933" ph="DROP TABLE I... " />
+                <marker date="1531420082325" expanded="true" signature="1170:1308" ph="CREATE TABLE... IF" />
+                <marker date="1531420082325" expanded="true" signature="1170:1369" ph="CREATE TABLE... IF" />
+                <marker date="1531420082325" expanded="true" signature="1643:1842" ph="CREATE TABLE... IF" />
+                <marker date="1531420082325" expanded="true" signature="2110:2297" ph="CREATE TABLE... IF" />
+                <marker date="1531420082325" expanded="true" signature="5607:5657" ph="select * fro... wp_status_array" />
+                <marker date="1531420082325" expanded="true" signature="7913:7960" ph="select * fro... wp_status_button" />
+                <marker date="1531420082325" expanded="true" signature="10862:10909" ph="select * fro... wp_status_button" />
+                <marker date="1531420082325" expanded="true" signature="13826:13874" ph="select * fro... wp_status_mailing" />
+                <marker date="1531420082325" expanded="true" signature="14377:14455" ph="SELECT statu... wp_status_mailing" />
+                <marker date="1531420082325" expanded="true" signature="14840:14915" ph="SELECT array... wp_status_array" />
+                <marker date="1531420082325" expanded="true" signature="15090:15231" ph="UPDATE wp_status_mailing... " />
+                <marker date="1531420082325" expanded="true" signature="15567:15642" ph="SELECT array... wp_status_array" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/add.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="39" column="3" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="39" selection-end-column="3" />
+              <folding>
+                <marker date="1530899550703" expanded="true" signature="271:330" ph="SELECT array... wp_status_array" />
+                <marker date="1530899550703" expanded="true" signature="271:338" ph="SELECT array... wp_status_array" />
+                <marker date="1530899550703" expanded="true" signature="544:638" ph="UPDATE wp_status_array... " />
+                <marker date="1530899550703" expanded="true" signature="544:640" ph="UPDATE wp_status_array... " />
+                <marker date="1530899550703" expanded="true" signature="753:845" ph="UPDATE wp_status_button... " />
+                <marker date="1530899550703" expanded="true" signature="753:846" ph="UPDATE wp_status_button... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="remove.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/remove.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="43" column="23" lean-forward="false" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+              <folding>
+                <marker date="1530899550609" expanded="true" signature="271:338" ph="SELECT array... wp_status_array" />
+                <marker date="1530899550609" expanded="true" signature="580:668" ph="UPDATE wp_status_array... " />
+                <marker date="1530899550609" expanded="true" signature="768:860" ph="UPDATE wp_status_button... " />
+                <marker date="1530899550609" expanded="true" signature="768:861" ph="UPDATE wp_status_button... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>row</find>
+      <find>unset</find>
+      <find>$interest_post</find>
+      <find>no_</find>
+      <find>$value</find>
+      <find>añade</find>
+      <find>anad</find>
+      <find>add</find>
+      <find>anade</find>
+      <find>aja</find>
+      <find>global $</find>
+      <find>che</find>
+      <find>checked</find>
+      <find>check_status</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wp-content/plugins/news/uninstall.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/news/prueba.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/news/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/news/js/style_js.js" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/news/añade.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/news/css/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/news/add.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/news/remove.php" />
+        <option value="$PROJECT_DIR$/wp-config.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/news/mail_template.html" />
+        <option value="$PROJECT_DIR$/wp-content/themes/storefront/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/news/news.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/news/functions.php" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -20,12 +331,16 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP">
+    <include_path>
+      <path value="C:\xampp\htdocs\copia\wp-content\plugins\news" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="111" />
+    <option name="y" value="8" />
+    <option name="width" value="683" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -50,6 +365,32 @@
               <item name="copia" type="b2602c69:ProjectViewProjectNode" />
               <item name="copia" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="copia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="copia" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="copia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="copia" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="copia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="copia" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="news" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="copia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="copia" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="news" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -60,7 +401,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/PHP/php.pdb" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\copia\wp-content\plugins\news\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\copia\wp-content\plugins\news\images" />
+      <recent name="C:\xampp\htdocs\copia\wp-content\plugins\news\css" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -73,6 +425,17 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="news.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/wp-content/plugins/news/news.php">
+      <CommandLine workingDirectory="$PROJECT_DIR$/wp-content/plugins/news" />
+      <option name="workingDirectory" value="C:\xampp\htdocs\copia\wp-content\plugins\news" />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.news.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -88,25 +451,96 @@
       <option name="presentableId" value="Default" />
       <updated>1521739198585</updated>
       <workItem from="1521739205662" duration="1462000" />
-      <workItem from="1521741062882" duration="942000" />
+      <workItem from="1521741062882" duration="2605000" />
+      <workItem from="1522929879448" duration="1206000" />
+      <workItem from="1523372114284" duration="448000" />
+      <workItem from="1523528048198" duration="593000" />
+      <workItem from="1524478203618" duration="4245000" />
+      <workItem from="1524491552321" duration="14946000" />
+      <workItem from="1524667029866" duration="16058000" />
+      <workItem from="1524758827457" duration="2541000" />
+      <workItem from="1524959045082" duration="74000" />
+      <workItem from="1525032684574" duration="648000" />
+      <workItem from="1525099595515" duration="8625000" />
+      <workItem from="1525273879956" duration="4697000" />
+      <workItem from="1525341309465" duration="5198000" />
+      <workItem from="1525703804882" duration="2466000" />
+      <workItem from="1525707302588" duration="11089000" />
+      <workItem from="1525774747735" duration="7027000" />
+      <workItem from="1525788608237" duration="5046000" />
+      <workItem from="1525794949840" duration="2888000" />
+      <workItem from="1525858728566" duration="7981000" />
+      <workItem from="1525875442552" duration="6183000" />
+      <workItem from="1525882988602" duration="1043000" />
+      <workItem from="1525946133092" duration="1582000" />
+      <workItem from="1525969373905" duration="13685000" />
+      <workItem from="1526045825994" duration="5739000" />
+      <workItem from="1526064390907" duration="431000" />
+      <workItem from="1526394220032" duration="6593000" />
+      <workItem from="1526405583468" duration="2578000" />
+      <workItem from="1526458822892" duration="16763000" />
+      <workItem from="1526490661556" duration="1144000" />
+      <workItem from="1526492609357" duration="601000" />
+      <workItem from="1526576730312" duration="6569000" />
+      <workItem from="1526917667538" duration="10292000" />
+      <workItem from="1526985389817" duration="5312000" />
+      <workItem from="1526991266962" duration="7965000" />
+      <workItem from="1527067036001" duration="300000" />
+      <workItem from="1527076981860" duration="3119000" />
+      <workItem from="1527171823476" duration="14574000" />
+      <workItem from="1527504939416" duration="8688000" />
+      <workItem from="1527585876157" duration="5075000" />
+      <workItem from="1527777173893" duration="5200000" />
+      <workItem from="1527862540290" duration="4592000" />
+      <workItem from="1528105708744" duration="1812000" />
+      <workItem from="1528125924514" duration="1188000" />
+      <workItem from="1528187581037" duration="246000" />
+      <workItem from="1528209085431" duration="13194000" />
+      <workItem from="1528295068471" duration="7250000" />
+      <workItem from="1528381340401" duration="6109000" />
+      <workItem from="1528390863920" duration="306000" />
+      <workItem from="1528708641302" duration="4429000" />
+      <workItem from="1528726308865" duration="6989000" />
+      <workItem from="1528904461673" duration="9316000" />
+      <workItem from="1528983491267" duration="16244000" />
+      <workItem from="1529065029291" duration="3719000" />
+      <workItem from="1529310444802" duration="1452000" />
+      <workItem from="1529319280578" duration="25887000" />
+      <workItem from="1529504553714" duration="3065000" />
+      <workItem from="1529678406321" duration="10678000" />
+      <workItem from="1529765488509" duration="4208000" />
+      <workItem from="1530211351071" duration="8729000" />
+      <workItem from="1530529714995" duration="10469000" />
+      <workItem from="1530552858937" duration="5129000" />
+      <workItem from="1530625992433" duration="1516000" />
+      <workItem from="1530628030105" duration="12982000" />
+      <workItem from="1530712539526" duration="12060000" />
+      <workItem from="1530784798719" duration="429000" />
+      <workItem from="1530807278047" duration="8914000" />
+      <workItem from="1530892901633" duration="22641000" />
+      <workItem from="1531130340789" duration="11815000" />
+      <workItem from="1531324575492" duration="6422000" />
+      <workItem from="1531384207680" duration="29135000" />
+      <workItem from="1531476509932" duration="778000" />
+      <workItem from="1531491205897" duration="361000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2404000" />
+    <option name="totallyTimeSpent" value="475343000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="20" width="1346" height="688" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26205286" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1913767" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952693" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.96768403" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.9282219" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -114,9 +548,29 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952693" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952693" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.51386625" sideWeight="0.4969743" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19062027" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -125,7 +579,719 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/uninstall.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="58" lean-forward="false" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+          <folding>
+            <marker date="1524483983166" expanded="true" signature="149:169" ph="DROP TABLE I... " />
+            <marker date="1524483983166" expanded="true" signature="149:184" ph="DROP TABLE I... " />
+            <marker date="1524483983166" expanded="true" signature="149:189" ph="DROP TABLE I... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1531420082325" expanded="true" signature="719:740" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="815:836" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="912:933" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="1170:1308" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="1170:1369" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="1643:1842" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="2110:2297" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="5607:5657" ph="select * fro... wp_status_array" />
+            <marker date="1531420082325" expanded="true" signature="7913:7960" ph="select * fro... wp_status_button" />
+            <marker date="1531420082325" expanded="true" signature="10862:10909" ph="select * fro... wp_status_button" />
+            <marker date="1531420082325" expanded="true" signature="13826:13874" ph="select * fro... wp_status_mailing" />
+            <marker date="1531420082325" expanded="true" signature="14377:14455" ph="SELECT statu... wp_status_mailing" />
+            <marker date="1531420082325" expanded="true" signature="14840:14915" ph="SELECT array... wp_status_array" />
+            <marker date="1531420082325" expanded="true" signature="15090:15231" ph="UPDATE wp_status_mailing... " />
+            <marker date="1531420082325" expanded="true" signature="15567:15642" ph="SELECT array... wp_status_array" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/uninstall.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="58" lean-forward="false" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+          <folding>
+            <marker date="1524483983166" expanded="true" signature="149:169" ph="DROP TABLE I... " />
+            <marker date="1524483983166" expanded="true" signature="149:184" ph="DROP TABLE I... " />
+            <marker date="1524483983166" expanded="true" signature="149:189" ph="DROP TABLE I... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1531420082325" expanded="true" signature="719:740" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="815:836" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="912:933" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="1170:1308" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="1170:1369" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="1643:1842" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="2110:2297" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="5607:5657" ph="select * fro... wp_status_array" />
+            <marker date="1531420082325" expanded="true" signature="7913:7960" ph="select * fro... wp_status_button" />
+            <marker date="1531420082325" expanded="true" signature="10862:10909" ph="select * fro... wp_status_button" />
+            <marker date="1531420082325" expanded="true" signature="13826:13874" ph="select * fro... wp_status_mailing" />
+            <marker date="1531420082325" expanded="true" signature="14377:14455" ph="SELECT statu... wp_status_mailing" />
+            <marker date="1531420082325" expanded="true" signature="14840:14915" ph="SELECT array... wp_status_array" />
+            <marker date="1531420082325" expanded="true" signature="15090:15231" ph="UPDATE wp_status_mailing... " />
+            <marker date="1531420082325" expanded="true" signature="15567:15642" ph="SELECT array... wp_status_array" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/uninstall.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="58" lean-forward="false" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+          <folding>
+            <marker date="1524483983166" expanded="true" signature="149:169" ph="DROP TABLE I... " />
+            <marker date="1524483983166" expanded="true" signature="149:184" ph="DROP TABLE I... " />
+            <marker date="1524483983166" expanded="true" signature="149:189" ph="DROP TABLE I... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1531420082325" expanded="true" signature="719:740" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="815:836" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="912:933" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="1170:1308" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="1170:1369" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="1643:1842" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="2110:2297" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="5607:5657" ph="select * fro... wp_status_array" />
+            <marker date="1531420082325" expanded="true" signature="7913:7960" ph="select * fro... wp_status_button" />
+            <marker date="1531420082325" expanded="true" signature="10862:10909" ph="select * fro... wp_status_button" />
+            <marker date="1531420082325" expanded="true" signature="13826:13874" ph="select * fro... wp_status_mailing" />
+            <marker date="1531420082325" expanded="true" signature="14377:14455" ph="SELECT statu... wp_status_mailing" />
+            <marker date="1531420082325" expanded="true" signature="14840:14915" ph="SELECT array... wp_status_array" />
+            <marker date="1531420082325" expanded="true" signature="15090:15231" ph="UPDATE wp_status_mailing... " />
+            <marker date="1531420082325" expanded="true" signature="15567:15642" ph="SELECT array... wp_status_array" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/uninstall.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="58" lean-forward="false" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+          <folding>
+            <marker date="1524483983166" expanded="true" signature="149:169" ph="DROP TABLE I... " />
+            <marker date="1524483983166" expanded="true" signature="149:184" ph="DROP TABLE I... " />
+            <marker date="1524483983166" expanded="true" signature="149:189" ph="DROP TABLE I... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1531420082325" expanded="true" signature="719:740" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="815:836" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="912:933" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="1170:1308" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="1170:1369" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="1643:1842" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="2110:2297" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="5607:5657" ph="select * fro... wp_status_array" />
+            <marker date="1531420082325" expanded="true" signature="7913:7960" ph="select * fro... wp_status_button" />
+            <marker date="1531420082325" expanded="true" signature="10862:10909" ph="select * fro... wp_status_button" />
+            <marker date="1531420082325" expanded="true" signature="13826:13874" ph="select * fro... wp_status_mailing" />
+            <marker date="1531420082325" expanded="true" signature="14377:14455" ph="SELECT statu... wp_status_mailing" />
+            <marker date="1531420082325" expanded="true" signature="14840:14915" ph="SELECT array... wp_status_array" />
+            <marker date="1531420082325" expanded="true" signature="15090:15231" ph="UPDATE wp_status_mailing... " />
+            <marker date="1531420082325" expanded="true" signature="15567:15642" ph="SELECT array... wp_status_array" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/uninstall.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="58" lean-forward="false" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+          <folding>
+            <marker date="1524483983166" expanded="true" signature="149:169" ph="DROP TABLE I... " />
+            <marker date="1524483983166" expanded="true" signature="149:184" ph="DROP TABLE I... " />
+            <marker date="1524483983166" expanded="true" signature="149:189" ph="DROP TABLE I... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1531420082325" expanded="true" signature="719:740" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="815:836" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="912:933" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="1170:1308" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="1170:1369" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="1643:1842" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="2110:2297" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="5607:5657" ph="select * fro... wp_status_array" />
+            <marker date="1531420082325" expanded="true" signature="7913:7960" ph="select * fro... wp_status_button" />
+            <marker date="1531420082325" expanded="true" signature="10862:10909" ph="select * fro... wp_status_button" />
+            <marker date="1531420082325" expanded="true" signature="13826:13874" ph="select * fro... wp_status_mailing" />
+            <marker date="1531420082325" expanded="true" signature="14377:14455" ph="SELECT statu... wp_status_mailing" />
+            <marker date="1531420082325" expanded="true" signature="14840:14915" ph="SELECT array... wp_status_array" />
+            <marker date="1531420082325" expanded="true" signature="15090:15231" ph="UPDATE wp_status_mailing... " />
+            <marker date="1531420082325" expanded="true" signature="15567:15642" ph="SELECT array... wp_status_array" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/uninstall.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="58" lean-forward="false" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+          <folding>
+            <marker date="1524483983166" expanded="true" signature="149:169" ph="DROP TABLE I... " />
+            <marker date="1524483983166" expanded="true" signature="149:184" ph="DROP TABLE I... " />
+            <marker date="1524483983166" expanded="true" signature="149:189" ph="DROP TABLE I... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1531420082325" expanded="true" signature="719:740" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="815:836" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="912:933" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="1170:1308" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="1170:1369" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="1643:1842" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="2110:2297" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="5607:5657" ph="select * fro... wp_status_array" />
+            <marker date="1531420082325" expanded="true" signature="7913:7960" ph="select * fro... wp_status_button" />
+            <marker date="1531420082325" expanded="true" signature="10862:10909" ph="select * fro... wp_status_button" />
+            <marker date="1531420082325" expanded="true" signature="13826:13874" ph="select * fro... wp_status_mailing" />
+            <marker date="1531420082325" expanded="true" signature="14377:14455" ph="SELECT statu... wp_status_mailing" />
+            <marker date="1531420082325" expanded="true" signature="14840:14915" ph="SELECT array... wp_status_array" />
+            <marker date="1531420082325" expanded="true" signature="15090:15231" ph="UPDATE wp_status_mailing... " />
+            <marker date="1531420082325" expanded="true" signature="15567:15642" ph="SELECT array... wp_status_array" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/uninstall.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="58" lean-forward="false" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+          <folding>
+            <marker date="1524483983166" expanded="true" signature="149:169" ph="DROP TABLE I... " />
+            <marker date="1524483983166" expanded="true" signature="149:184" ph="DROP TABLE I... " />
+            <marker date="1524483983166" expanded="true" signature="149:189" ph="DROP TABLE I... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1531420082325" expanded="true" signature="719:740" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="815:836" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="912:933" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="1170:1308" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="1170:1369" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="1643:1842" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="2110:2297" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="5607:5657" ph="select * fro... wp_status_array" />
+            <marker date="1531420082325" expanded="true" signature="7913:7960" ph="select * fro... wp_status_button" />
+            <marker date="1531420082325" expanded="true" signature="10862:10909" ph="select * fro... wp_status_button" />
+            <marker date="1531420082325" expanded="true" signature="13826:13874" ph="select * fro... wp_status_mailing" />
+            <marker date="1531420082325" expanded="true" signature="14377:14455" ph="SELECT statu... wp_status_mailing" />
+            <marker date="1531420082325" expanded="true" signature="14840:14915" ph="SELECT array... wp_status_array" />
+            <marker date="1531420082325" expanded="true" signature="15090:15231" ph="UPDATE wp_status_mailing... " />
+            <marker date="1531420082325" expanded="true" signature="15567:15642" ph="SELECT array... wp_status_array" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/uninstall.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="58" lean-forward="false" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+          <folding>
+            <marker date="1524483983166" expanded="true" signature="149:169" ph="DROP TABLE I... " />
+            <marker date="1524483983166" expanded="true" signature="149:184" ph="DROP TABLE I... " />
+            <marker date="1524483983166" expanded="true" signature="149:189" ph="DROP TABLE I... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1531420082325" expanded="true" signature="719:740" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="815:836" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="912:933" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="1170:1308" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="1170:1369" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="1643:1842" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="2110:2297" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="5607:5657" ph="select * fro... wp_status_array" />
+            <marker date="1531420082325" expanded="true" signature="7913:7960" ph="select * fro... wp_status_button" />
+            <marker date="1531420082325" expanded="true" signature="10862:10909" ph="select * fro... wp_status_button" />
+            <marker date="1531420082325" expanded="true" signature="13826:13874" ph="select * fro... wp_status_mailing" />
+            <marker date="1531420082325" expanded="true" signature="14377:14455" ph="SELECT statu... wp_status_mailing" />
+            <marker date="1531420082325" expanded="true" signature="14840:14915" ph="SELECT array... wp_status_array" />
+            <marker date="1531420082325" expanded="true" signature="15090:15231" ph="UPDATE wp_status_mailing... " />
+            <marker date="1531420082325" expanded="true" signature="15567:15642" ph="SELECT array... wp_status_array" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/alo-easymail/alo-easymail.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/uninstall.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="58" lean-forward="false" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+          <folding>
+            <marker date="1524483983166" expanded="true" signature="149:169" ph="DROP TABLE I... " />
+            <marker date="1524483983166" expanded="true" signature="149:184" ph="DROP TABLE I... " />
+            <marker date="1524483983166" expanded="true" signature="149:189" ph="DROP TABLE I... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1531420082325" expanded="true" signature="719:740" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="815:836" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="912:933" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="1170:1308" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="1170:1369" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="1643:1842" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="2110:2297" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="5607:5657" ph="select * fro... wp_status_array" />
+            <marker date="1531420082325" expanded="true" signature="7913:7960" ph="select * fro... wp_status_button" />
+            <marker date="1531420082325" expanded="true" signature="10862:10909" ph="select * fro... wp_status_button" />
+            <marker date="1531420082325" expanded="true" signature="13826:13874" ph="select * fro... wp_status_mailing" />
+            <marker date="1531420082325" expanded="true" signature="14377:14455" ph="SELECT statu... wp_status_mailing" />
+            <marker date="1531420082325" expanded="true" signature="14840:14915" ph="SELECT array... wp_status_array" />
+            <marker date="1531420082325" expanded="true" signature="15090:15231" ph="UPDATE wp_status_mailing... " />
+            <marker date="1531420082325" expanded="true" signature="15567:15642" ph="SELECT array... wp_status_array" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/uninstall.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="58" lean-forward="false" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+          <folding>
+            <marker date="1524483983166" expanded="true" signature="149:169" ph="DROP TABLE I... " />
+            <marker date="1524483983166" expanded="true" signature="149:184" ph="DROP TABLE I... " />
+            <marker date="1524483983166" expanded="true" signature="149:189" ph="DROP TABLE I... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1531420082325" expanded="true" signature="719:740" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="815:836" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="912:933" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="1170:1308" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="1170:1369" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="1643:1842" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="2110:2297" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="5607:5657" ph="select * fro... wp_status_array" />
+            <marker date="1531420082325" expanded="true" signature="7913:7960" ph="select * fro... wp_status_button" />
+            <marker date="1531420082325" expanded="true" signature="10862:10909" ph="select * fro... wp_status_button" />
+            <marker date="1531420082325" expanded="true" signature="13826:13874" ph="select * fro... wp_status_mailing" />
+            <marker date="1531420082325" expanded="true" signature="14377:14455" ph="SELECT statu... wp_status_mailing" />
+            <marker date="1531420082325" expanded="true" signature="14840:14915" ph="SELECT array... wp_status_array" />
+            <marker date="1531420082325" expanded="true" signature="15090:15231" ph="UPDATE wp_status_mailing... " />
+            <marker date="1531420082325" expanded="true" signature="15567:15642" ph="SELECT array... wp_status_array" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1531420082325" expanded="true" signature="719:740" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="815:836" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="912:933" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="1170:1308" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="1170:1369" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="1643:1842" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="2110:2297" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="5607:5657" ph="select * fro... wp_status_array" />
+            <marker date="1531420082325" expanded="true" signature="7913:7960" ph="select * fro... wp_status_button" />
+            <marker date="1531420082325" expanded="true" signature="10862:10909" ph="select * fro... wp_status_button" />
+            <marker date="1531420082325" expanded="true" signature="13826:13874" ph="select * fro... wp_status_mailing" />
+            <marker date="1531420082325" expanded="true" signature="14377:14455" ph="SELECT statu... wp_status_mailing" />
+            <marker date="1531420082325" expanded="true" signature="14840:14915" ph="SELECT array... wp_status_array" />
+            <marker date="1531420082325" expanded="true" signature="15090:15231" ph="UPDATE wp_status_mailing... " />
+            <marker date="1531420082325" expanded="true" signature="15567:15642" ph="SELECT array... wp_status_array" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1531420082325" expanded="true" signature="719:740" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="815:836" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="912:933" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="1170:1308" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="1170:1369" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="1643:1842" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="2110:2297" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="5607:5657" ph="select * fro... wp_status_array" />
+            <marker date="1531420082325" expanded="true" signature="7913:7960" ph="select * fro... wp_status_button" />
+            <marker date="1531420082325" expanded="true" signature="10862:10909" ph="select * fro... wp_status_button" />
+            <marker date="1531420082325" expanded="true" signature="13826:13874" ph="select * fro... wp_status_mailing" />
+            <marker date="1531420082325" expanded="true" signature="14377:14455" ph="SELECT statu... wp_status_mailing" />
+            <marker date="1531420082325" expanded="true" signature="14840:14915" ph="SELECT array... wp_status_array" />
+            <marker date="1531420082325" expanded="true" signature="15090:15231" ph="UPDATE wp_status_mailing... " />
+            <marker date="1531420082325" expanded="true" signature="15567:15642" ph="SELECT array... wp_status_array" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1531420082325" expanded="true" signature="719:740" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="815:836" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="912:933" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="1170:1308" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="1170:1369" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="1643:1842" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="2110:2297" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="5607:5657" ph="select * fro... wp_status_array" />
+            <marker date="1531420082325" expanded="true" signature="7913:7960" ph="select * fro... wp_status_button" />
+            <marker date="1531420082325" expanded="true" signature="10862:10909" ph="select * fro... wp_status_button" />
+            <marker date="1531420082325" expanded="true" signature="13826:13874" ph="select * fro... wp_status_mailing" />
+            <marker date="1531420082325" expanded="true" signature="14377:14455" ph="SELECT statu... wp_status_mailing" />
+            <marker date="1531420082325" expanded="true" signature="14840:14915" ph="SELECT array... wp_status_array" />
+            <marker date="1531420082325" expanded="true" signature="15090:15231" ph="UPDATE wp_status_mailing... " />
+            <marker date="1531420082325" expanded="true" signature="15567:15642" ph="SELECT array... wp_status_array" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/alo-easymail.2.9.8/alo-easymail/alo-easymail.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-687">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/alo-easymail/alo-easymail.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-order-item-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4723">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/prueba.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/js/style_js.js" />
+    <entry file="file://$PROJECT_DIR$/wp-load.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="30" column="2" lean-forward="true" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/news(version check_checked())/news.php" />
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/remove.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="43" column="23" lean-forward="false" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+          <folding>
+            <marker date="1530899550609" expanded="true" signature="271:338" ph="SELECT array... wp_status_array" />
+            <marker date="1530899550609" expanded="true" signature="580:668" ph="UPDATE wp_status_array... " />
+            <marker date="1530899550609" expanded="true" signature="768:860" ph="UPDATE wp_status_button... " />
+            <marker date="1530899550609" expanded="true" signature="768:861" ph="UPDATE wp_status_button... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/mail_template.html" />
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/uninstall.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <marker date="1524483983166" expanded="true" signature="149:169" ph="DROP TABLE I... " />
+            <marker date="1524483983166" expanded="true" signature="149:184" ph="DROP TABLE I... " />
+            <marker date="1524483983166" expanded="true" signature="149:189" ph="DROP TABLE I... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="21" lean-forward="false" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/newsletter-email-template/newsletter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-527">
+          <caret line="76" column="51" lean-forward="true" selection-start-line="76" selection-start-column="51" selection-end-line="76" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/images/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="39" column="3" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="39" selection-end-column="3" />
+          <folding>
+            <marker date="1530899550703" expanded="true" signature="271:330" ph="SELECT array... wp_status_array" />
+            <marker date="1530899550703" expanded="true" signature="271:338" ph="SELECT array... wp_status_array" />
+            <marker date="1530899550703" expanded="true" signature="544:638" ph="UPDATE wp_status_array... " />
+            <marker date="1530899550703" expanded="true" signature="544:640" ph="UPDATE wp_status_array... " />
+            <marker date="1530899550703" expanded="true" signature="753:845" ph="UPDATE wp_status_button... " />
+            <marker date="1530899550703" expanded="true" signature="753:846" ph="UPDATE wp_status_button... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5678">
+          <caret line="344" column="76" lean-forward="false" selection-start-line="344" selection-start-column="76" selection-end-line="344" selection-end-column="76" />
+          <folding>
+            <marker date="1531420082325" expanded="true" signature="719:740" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="815:836" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="912:933" ph="DROP TABLE I... " />
+            <marker date="1531420082325" expanded="true" signature="1170:1308" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="1170:1369" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="1643:1842" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="2110:2297" ph="CREATE TABLE... IF" />
+            <marker date="1531420082325" expanded="true" signature="5607:5657" ph="select * fro... wp_status_array" />
+            <marker date="1531420082325" expanded="true" signature="7913:7960" ph="select * fro... wp_status_button" />
+            <marker date="1531420082325" expanded="true" signature="10862:10909" ph="select * fro... wp_status_button" />
+            <marker date="1531420082325" expanded="true" signature="13826:13874" ph="select * fro... wp_status_mailing" />
+            <marker date="1531420082325" expanded="true" signature="14377:14455" ph="SELECT statu... wp_status_mailing" />
+            <marker date="1531420082325" expanded="true" signature="14840:14915" ph="SELECT array... wp_status_array" />
+            <marker date="1531420082325" expanded="true" signature="15090:15231" ph="UPDATE wp_status_mailing... " />
+            <marker date="1531420082325" expanded="true" signature="15567:15642" ph="SELECT array... wp_status_array" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/images/facebook.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/news/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <folding>
+            <marker date="1531476964462" expanded="true" signature="1159:1229" ph="SELECT id_bu... wp_status_button" />
+            <marker date="1531476964462" expanded="true" signature="1293:1313" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="3105:12048" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="3116:3178" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="3116:3338" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="3358:3380" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="3382:12036" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="3458:12024" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="3471:12011" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="3497:3520" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="3522:11997" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="3635:3688" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="3690:11979" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="3715:4081" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="3790:3897" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="3899:3900" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="3899:3916" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="3899:3917" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="3899:4045" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="3899:4055" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="4024:4039" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="4106:10212" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="4164:4193" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="4195:10186" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="4295:10156" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="4332:4628" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="4382:4446" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="4448:4590" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="4665:5532" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="4715:4822" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="4824:5494" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="4824:5495" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="5569:5898" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="5636:5743" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="5745:5860" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="5935:10119" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="5976:10081" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="6088:9955" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="6137:8183" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="6137:9954" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="6219:8133" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="6343:8079" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="6404:6471" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="6404:6816" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="6489:6553" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="6550:6553" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="6555:6754" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="6877:8018" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="6951:7055" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="7057:7058" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="7057:7956" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="8393:9954" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="8455:8484" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="8499:8612" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="8553:8559" ph=" " />
+            <marker date="1531476964462" expanded="true" signature="8694:9904" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="8818:9850" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="8923:9789" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="9027:9067" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="9201:9577" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="9201:9727" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="9651:9658" ph="»" />
+            <marker date="1531476964462" expanded="true" signature="9955:10039" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="10237:11954" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="10295:10324" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="10326:11928" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="10426:11898" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="10463:11861" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="10513:10577" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="10593:10863" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="10635:10640" ph="®" />
+            <marker date="1531476964462" expanded="true" signature="10732:10747" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="10934:11823" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="11031:11781" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="11080:11732" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="11142:11209" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="11211:11682" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="11355:11370" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="11372:11628" ph="..." />
+            <marker date="1531476964462" expanded="true" signature="11539:11554" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
